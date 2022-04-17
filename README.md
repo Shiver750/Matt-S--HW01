@@ -2,4 +2,4 @@ My first attempt at refactoring. I've consolidated CSS class/ids and used descri
 
 ![Screenshot](Capture.PNG "Cleaned up CSS")
 
-https://github.com/Shiver750/Matt-S--HW01
+https://shiver750.github.io/
