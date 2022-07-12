@@ -2,4 +2,4 @@ My first attempt at refactoring. I've consolidated CSS class/ids and used descri
 
 ![Screenshot](Capture.PNG "Cleaned up CSS")
 
-https://shiver750.github.io/
+https://shiver750.github.io/UW-Boot-Camp-HW-1---Refactoring/
